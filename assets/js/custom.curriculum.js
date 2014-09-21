@@ -53,7 +53,7 @@ jQuery( document ).ready( function( $ ){
 
 	$('.gallery').each(function() { // the containers for all your galleries should have the class gallery
 		$(this).magnificPopup({
-			delegate: 'a', // the container for each your gallery items
+			delegate: '.img', // the container for each your gallery items
 			type: 'image',
 			gallery:{enabled:true}
 		});
