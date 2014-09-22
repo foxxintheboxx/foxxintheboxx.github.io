@@ -330,7 +330,7 @@ input.error, textarea.error {
 .skill-pie {
 	width: 100%;
 	margin: 0 auto;
-	font-size: 1.875em;
+	font-size: 1.5em;
 	font-weight: 300;
 }
 .easyPieChart canvas { margin: 0 auto; }
